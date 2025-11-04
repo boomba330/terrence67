@@ -1,0 +1,73 @@
+ table{
+    text-align: center;
+    padding: 5px;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+
+tr :hover  {
+  background-color: #4166f5;
+}
+
+th, td {
+    border: 2px solid #000;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+
+.num1 { background-color: #53616e; font-weight: bold; color: #f58b00; }
+.day1 { background-color:#224970 ; font-size: xx-small; }
+.day8 { background-color: #5996e6; }
+.day15 { background-color: #4674A1; }
+.day22 { background-color: #588FC0; }
+.day29 { background-color: #6AAAE0; }
+
+
+.num2 { background-color: #F70000; font-weight: bold; color: #1a5a01; }
+.day2 { background-color: #9c2e2e; }
+.day9 { background-color: #FF3333; }
+.day16 { background-color: #794e4e; }
+.day23 { background-color: #6d3939; }
+.day30 { background-color: #963c3c; }
+
+
+.num3 { background-color: #cc7188; font-weight: bold; color: #05ff43; }
+.day3 { background-color: #a59096; }
+.day10 { background-color: #5a3944; }
+.day17 { background-color: #704b59; }
+.day24 { background-color: #e7c3d4; }
+.day31 { background-color: #FF80CB; }
+
+
+.num4 { background-color: #46004D; font-weight: bold; color: #e6463b; }
+.day4 { background-color: #5A1960; }
+.day11 { background-color: #6F3374; }
+.day18 { background-color: #854D87; }
+.day25 { background-color: #9B669B; }
+.day32{ background-color: #cf3be2; }
+
+
+.num5 { background-color: #014206; font-weight: bold; color: #ff5e00; }
+.day5 { background-color: #1A5B18; }
+.day12 { background-color: #33732A; }
+.day19 { background-color: #4D8C3F; }
+.day26 { background-color: #66A454; }
+.day33 { background-color: #8aa568; font-size: xx-small; }
+
+
+.num6 { background-color: #1C4901; font-weight: bold; color: #f0ff22; }
+.day6 { background-color: #3B651B; }
+.day13 { background-color: #5A811E; }
+.day20 { background-color: #789E3B; }
+.day27 { background-color: #97BA57; }
+.day34 { background-color: #99b16c; font-size: xx-small; }
+
+
+.num7 { background-color: #4D3800; font-weight: bold; color: #ffffff; }
+.day7 { background-color: #66512A; }
+.day14 { background-color: #806A55; }
+.day21 { background-color: #99827F; }
+.day28 { background-color: #B19BAA; }
+.day35 { background-color: #b3a9af; font-size: xx-small; }
